@@ -1,0 +1,7 @@
+﻿opencv-python-headless>=4.9.0.80
+pytesseract>=0.3.10
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
